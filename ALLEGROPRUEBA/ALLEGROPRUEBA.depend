@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1640558791 source:c:\descargas\documentos\allegroprueba\main.cpp
+	<allegro.h>
+	<iostream>
+	<random>
+	<list>
+	<fstream>
+	<string>
+	<cstring>
+	<vector>
+	<climits>
+	<bits/stdc++.h>
+	<cstdlib>
+	<sstream>
+	<algorithm>
+	<locale.h>
+
