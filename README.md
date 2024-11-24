@@ -90,3 +90,6 @@ Revolutionize the tourism experience in Arequipa by creating an efficient and ac
 - **[Braulio Maldonado Casilla](https://github.com/ShinjiMC)**
 
 ---
+
+## 👥 **Acknowledgments**  
+This project is proudly conducted in collaboration with the **Universidad Nacional de San Agustín de Arequipa**, with contributions from researchers and students dedicated to advancing accessibility technologies.  
